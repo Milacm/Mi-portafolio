@@ -1,0 +1,33 @@
+.general{
+    display: flex;
+    flex-wrap:nowrap;
+    width: 960;
+    height: 500px;
+
+}
+
+.columna-1 {
+    background-image: image(ky.jpg)
+    height: 300px;
+    padding: 25px;
+    margin: 0 10px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.columna-2{
+    background-image: image(ky.jpg)
+    width: 400px;
+    height: 300px;
+    padding: 25px;
+    margin: 0 10px;
+    
+}
+
+.columna-3{
+    background-image: image(ky.jpg)
+    margin: 0 10px;
+    
+
+}
